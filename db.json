@@ -20,7 +20,7 @@
     },
     {
       "name": "Desenvolvimento do novo site",
-      "budget": "3000",
+      "budget": "8000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -28,6 +28,17 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "Protótipo tela de login",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
